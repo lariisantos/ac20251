@@ -1,5 +1,6 @@
 package br.edu.cs.poo.ac.seguro.entidades;
 
+//teste commit intelliJ :D
 public class Endereco {
     private String logradouro;
     private String cep;
